@@ -1,5 +1,0 @@
-Sangam Barnwal
-Docker 
-GitHub
-Java
-SpringBoot
