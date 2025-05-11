@@ -1,5 +1,7 @@
-Sangam Barnwal
-Docker 
+SangamBarmwal
+Docker
+Springboot
 GitHub
 Java
-SpringBoot
+ReactJs
+DSA
